@@ -1,13 +1,13 @@
 # Dcus UI Library v2.3 - Documentation
 
 ## iksuwuによって作成された、洗練されたダークテーマのRoblox用UIライブラリです。PC環境での動作に最適化されています
-### ブレインロットを盗むなどで検知されず、使いやすくオシャレなUIとなっています
+### ブレインロットを盗むなどで検知されず、使いやすくオシャレなUIとなっています。※当ドキュメントはAI ( Gemini )により生成されました
 
 ---
 
 ## 🚀 導入方法
 
-まずはライブラリを `require` し、メインウィンドウを初期化します。
+まずはライブラリを `loadstring` で読み込み、メインウィンドウを初期化します。
 
 ``lua
 local UI = require(game.ReplicatedStorage.Lib)
