@@ -11,13 +11,15 @@
 まずはライブラリを `loadstring` で読み込み、メインウィンドウを初期化します。
 
 ```lua
-local UI = require(game.ReplicatedStorage.Lib)
+local UI = loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/RequideSync/My-UI/refs/heads/main/DcusUI-Series/Morten/source.lua"))()
 
 local Window = UI:New({
     Title = "Morten UI",
     Footer = "By iksuwu • v2.3"
 })
 ```
+
+## 💡ヒント: Footerはサブタイトル的な役割です
 
 ---
 
