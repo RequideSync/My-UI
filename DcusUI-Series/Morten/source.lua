@@ -21,7 +21,7 @@ function Library:New(config)
 	self.Gui = Create("ScreenGui", {
 		Name = "DcusHub_v2.3 UI",
 		ResetOnSpawn = false,
-		Parent = Player:WaitForChild("PlayerGui")
+		Parent = gethui()
 	})
 
 	self.Main = Create("Frame", {
