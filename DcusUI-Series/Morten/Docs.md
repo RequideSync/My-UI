@@ -1,4 +1,4 @@
-# Dcus UI Library v2.3 - Documentation
+# DcusUI Series ¦ Morten v2.3 - Documentation
 
 ## iksuwuによって作成された、洗練されたダークテーマのRoblox用UIライブラリです。PC環境での動作に最適化されています
 ### ブレインロットを盗むなどで検知されず、使いやすくオシャレなUIとなっています。※当ドキュメントはAI ( Gemini )により生成されました
