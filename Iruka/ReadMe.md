@@ -5,7 +5,7 @@ IrukaUI is a secure, high-performance UI library for Roblox executors. It featur
 ## Library Initialization
 
 ```lua
-local IrukaUI = loadstring(game:HttpGet(('YOUR_LINK_HERE')))()
+local IrukaUI = loadstring(game:HttpGet(('https://raw.githubusercontent.com/RequideSync/My-UI/refs/heads/main/Iruka/IrukaUI.lua')))()
 
 local Window = IrukaUI:MakeWindow({
     Name = "IrukaUI Script",
